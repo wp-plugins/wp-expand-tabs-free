@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Expand tabs Free
+Plugin Name: Expand Tabs lite
 Plugin URI: http://wpexpand.com/wp-expand-tabs
 Description: This plugin will enable tabs features in your wordpress site. 
 Author: Rasel Ahmed
